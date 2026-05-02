@@ -3,6 +3,9 @@
 ## 📌 Overview
 This project applies unsupervised machine learning on **550,000+ real-world transactional records** to segment customers into distinct behavioral groups using **RFM Analysis** and **K-Means Clustering**. The goal is to help businesses move away from one-size-fits-all marketing and instead execute **precision-targeted strategies** per customer segment.
 
+## Live Demo
+https://customer-segmentation-latest.onrender.com/
+
 ---
 
 ## 🎯 Problem Statement
